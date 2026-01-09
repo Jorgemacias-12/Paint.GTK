@@ -1,4 +1,4 @@
-# Paint.GTX
+# Paint.GTK
 
 Welcome my dudes
 
